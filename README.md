@@ -1,6 +1,6 @@
 # Kütüphane Otomasyon
-Basit bir kütüphane otomasyon projesi
-Modüller
+Basit bir kütüphane otomasyon projesi. 
+Modüller: 
 Admin, İdareci, Personel.
 
 Admin Paneli,
