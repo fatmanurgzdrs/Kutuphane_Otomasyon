@@ -3,11 +3,11 @@ Basit bir kütüphane otomasyon projesi
 Modüller
 Admin, İdareci, Personel.
 
-Admin Paneli
+Admin Paneli,
 Tüm modüllerin formlarına erişim ve kullanıcıların CRUD işlemleri.
 
-İdareci Paneli
+İdareci Paneli,
 Personel, Kitap CRUD işlemleri ve stok kontrolü.
 
-Personel Paneli
+Personel Paneli,
 Üye CRUD işlemleri ve kitap ödünç verme (cezalı) sistemi.
